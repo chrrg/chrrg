@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   -->
 
 - 🔭 I’m currently working on Tencent
-- 👋 My secret site [entry](http://www.caohong.ga/)
+- 👋 My secret site [entry](http://www.chrrg.cn/)
 - 💬 Ask me about anything [here](https://github.com/chrrg/chrrg/issues)
